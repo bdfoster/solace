@@ -1,4 +1,4 @@
-# Goals for v0.0.1 Release # 
+# Goals for v0.0.1 Release 
 ## 1. Unit Management ##
 * Ability to add units to property, i.e. Apartment 1 to Some Community 
 * Ability to add account(s) to unit(s)
